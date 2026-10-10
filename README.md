@@ -1,5 +1,6 @@
 # -python-learning
-#仓库总体说明：此仓库展示了我初步学习python和用python编写的简单项目
+#仓库总体说明：此仓库展示了我初步学习python和用python编写的简单项目，代码文件都加上了详细的注释以便看明白
 #Python-learn和Python-learn2是我学习python语法时练习的代码
-#guess系列是我产出的朴素贝叶斯分类器也就是项目1
-#pgmpy系列是我产出的pgmpy 推断 demo也就是项目3，4
+#guess系列是我产出的朴素贝叶斯分类器及其迭代升级的版本，flowerplus版本加入比例分层抽样，promax版本升级了高斯似然计算和交叉验证，同时加上生成柱状图的功能（该功能运行时电脑上应装上一些东西，生成的图片不是在IDE上显示而是跟代码文件一起在一个文件夹里，不过没装那个东西不影响代码运行，只是没有了生成柱状图的功能）
+#pgmpy系列是我产出的pgmpy 推断 demo。student为学生成绩贝叶斯网络，devicestate为设备状态评价贝叶斯网络
+#总结：这里面有价值一看的文件为guess——flowerplus|guess——flowerpromax|pgmpy_student|pgmpy_devicestate
